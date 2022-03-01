@@ -1,0 +1,109 @@
+
+       
+body{
+     font-family: 'Open Sans Condensed', sans-serif;
+     font-size: 20px;
+ }
+ .my-pic{
+     height: 250px;
+     overflow: hidden;
+ }
+ .image{
+     width: 100%;
+ }
+ #img-edit{
+     border-radius: 65px;
+      height: 130px;
+      margin-left: 40px;
+     margin-top: -75px;
+     border: 5px solid #03045e;
+ }
+ .name-sec .name{
+     font-size: 35px;
+ }
+ .name-sec .about{
+     font-size: 35px;
+     
+ }
+ .pic-text{
+     display: flex;
+     gap: 55px;
+ }
+ .mid-part{
+     display: flex;
+     justify-content: left;
+     gap: 150px;
+ }
+ .side-part{
+     font-size: 35px; 
+     gap: 25px;            
+    
+    
+ }
+ 
+ .remove-pt li{
+     list-style-type: none;  
+     border: #590d solid 2px;
+   
+     
+ }
+
+ .remove-pt{
+     padding: 0;
+     
+ }
+ .remove-pt li.select{
+     background-color: #80ffdb;
+     
+ }
+ .link{
+     text-decoration: none;
+ }
+ 
+ .gap{
+     border: 5px solid green;
+     display: inline;
+     
+ }
+ .heo{
+     width: 1500px;
+ }
+ .last-part{
+     display: flex;
+     justify-content: center;
+     align-content: center;
+     font-size: 30px;
+ 
+
+ }
+ .naam{
+     
+     padding: 0px;
+
+ }
+ .text{
+     display: flex;
+     font-size: 35px;
+ }
+ .last-part dt{
+     font-weight: bold;
+ }
+ .line{
+     border-bottom: 2px solid #03045e;
+ }
+ .study{
+     font-size: 25px;
+ }
+ .ed{
+    text-align: left;
+    border: 1px solid black;
+    width: 1000px;
+    
+}
+.ed td{
+    border: 1px solid darkblue;
+}
+.list{
+    font-size: 40px;
+}
+ 
